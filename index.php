@@ -63,10 +63,10 @@
 
         <nav id="navbar" class="navbar">
           <ul>
-            <li><a href="./index.html">BERANDA</a></li>
+            <li><a href="./index.php">BERANDA</a></li>
             <li><a href="#calculator">KALKULATOR</a></li>
-            <li><a href="#">ABOUT</a></li>
-            <li><a href="#article">ARTIKEL</a></li>
+            <li><a href="./about/about.html">ABOUT</a></li>
+            <li><a href="./articles/php">ARTIKEL</a></li>
             <li><a href="#">AKSI LINGKUNGAN</a></li>
             <li>
               <button type="button" class="btn btn-success rounded-5">
